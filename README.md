@@ -6,7 +6,7 @@ Simple server mod to change tickrate to 128 in CS2.
 Use at your own risk!
 ## Installation
 Create a folder structure like this in your server installation:
-
+ 
 > Counter-Strike Global Offensive/game/csgo/<ins>addons/128tick/bin/win64</ins>.
 
 Put server.dll from `windows.zip` in `addons/128tick/bin/win64`.
