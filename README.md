@@ -17,4 +17,3 @@ Open `Counter-Strike Global Offensive/game/csgo/gameinfo.gi`. Put `Game	csgo/add
 
 
 You're done!
-go compile
